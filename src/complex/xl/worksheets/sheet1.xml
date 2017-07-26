@@ -7,7 +7,7 @@
   <dimension ref="A1:D11"/>
   <sheetViews>
     <sheetView tabSelected="1" workbookViewId="0">
-      <selection activeCell="C12" sqref="C12"/>
+      <selection activeCell="G7" sqref="G7"/>
     </sheetView>
   </sheetViews>
   <sheetFormatPr baseColWidth="10" defaultColWidth="8.625" defaultRowHeight="16" x14ac:dyDescent="0.2"/>
@@ -165,6 +165,14 @@
       </c>
     </row>
     <row r="11" spans="1:4" x14ac:dyDescent="0.2">
+      <c r="B11" s="13">
+        <f>SUM(B2:B10)</f>
+        <v>2200</v>
+      </c>
+      <c r="C11" s="13">
+        <f>SUM(C2:C10)</f>
+        <v>1202.75</v>
+      </c>
       <c r="D11" s="13">
         <f>SUM(D2:D10)</f>
         <v>997.25</v>
