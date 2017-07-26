@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "zip": "gulp zip",
+    "unzip": "gulp unzip"
+  },
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-unzip": "^0.2.0",
+    "gulp-zip": "^4.0.0",
+    "merge-stream": "^1.0.1"
+  }
+}
